@@ -18,4 +18,6 @@ To set up and run the project, follow these steps:
     ```
 
 ## Note
+Output is in console.log when you run and inspect.
+Place gltf and bin files in dist/assets.
 To ensure the JSON file runs in BTL (Biochem Lab Simulation), **remove `envMap` and `up`** from the JSON file, as they cannot be parsed!
